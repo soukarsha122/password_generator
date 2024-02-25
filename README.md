@@ -33,9 +33,9 @@ Welcome to the Password Generator App! This React-based web application allows u
 ## Usage
 
 1. Adjust the password length using the slider.
-2. Check/uncheck the "Include Numbers" and "Include Special Characters" options as desired.
+2. Check/uncheck the "Numbers" and "Characters" options as desired.
 3. The secure password is generated automatically based on your settings.
-4. Click the "Copy to Clipboard" button to effortlessly copy the generated password.
+4. Click the "Copy" button to effortlessly copy the generated password.
 
 ## Technologies Used
 
