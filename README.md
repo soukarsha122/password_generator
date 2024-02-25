@@ -25,10 +25,10 @@ Welcome to the Password Generator App! This React-based web application allows u
 
 - **Checkbox Options:**
 
-  - **Include Numbers:** Users can choose to include numeric characters in the generated password by checking this option.
-  - **Include Special Characters:** Users can choose to include special characters in the generated password by checking this option.
+  - **Numbers:** Users can choose to include numeric characters in the generated password by checking this option.
+  - **Characters:** Users can choose to include special characters in the generated password by checking this option.
 
-- **Copy to Clipboard:** Once a password is generated, users can effortlessly copy it to the clipboard with a single click.
+- **Copy:** Once a password is generated, users can effortlessly copy it to the clipboard with a single click.
 
 ## Usage
 
