@@ -43,3 +43,7 @@ Welcome to the Password Generator App! This React-based web application allows u
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+
+Check out the [Live Demo](https://secpass.netlify.app/)!
